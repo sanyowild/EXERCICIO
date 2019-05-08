@@ -7,3 +7,5 @@ exercicio teste 01
 
 
 # questoes
+
+#exercicios aula git 
